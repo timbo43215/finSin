@@ -30,6 +30,7 @@ struct ContentView: View {
 
     var sum = 0
     func SinSum(N: Int, x: x)
+    //kgojyg
 
     for n in 0...N {
         sum = sum + Sin(n: N, x: x)
